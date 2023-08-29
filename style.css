@@ -1,0 +1,16 @@
+h2{
+    background-color: rgb(255, 9, 9);
+    color:black ;
+}
+
+body{
+    display: flex;
+    justify-content: space-around;
+    background-image: url("https://media.airedesantafe.com.ar/p/107d94cd5d1a1fd8f63bfdc26cdf201e/adjuntos/268/imagenes/003/715/0003715879/1200x675/smart/cartas_messijpg_344325628jpg.jpg");
+}
+.button-{
+    color: rgb(255, 9, 9);
+}
+.button+{
+    color: rgb(255, 9, 9);
+}
